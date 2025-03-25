@@ -1,0 +1,24 @@
+{
+  "name": "webcrowlerhttp",
+  "version": "1.0.0",
+  "description": "Learn HTTP course",
+  "homepage": "https://github.com/lscutelxx/webcrowlerhttp#readme",
+  "bugs": {
+    "url": "https://github.com/lscutelxx/webcrowlerhttp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lscutelxx/webcrowlerhttp.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node main.js"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
